@@ -15,3 +15,5 @@ hardware/** linguist-vendored
 # All firmware is excluded EXCEPT the shared, hand-written Libraries.
 firmware/** linguist-vendored
 firmware/Libraries/** -linguist-vendored
+# ...but External holds third-party libraries, so keep it excluded.
+firmware/Libraries/External/** linguist-vendored
