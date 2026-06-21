@@ -1,0 +1,14 @@
+# GitHub Linguist overrides.
+#
+# Each firmware board ships a full vendored copy of ST's CMSIS + STM32 HAL
+# drivers (and, for the USB board, the USB device middleware). That is tens of
+# megabytes of ST-authored C per board and dwarfs the project's own code, so the
+# language bar reads ~99% C. Mark it vendored so Linguist excludes it from the
+# language statistics. The files stay in the repo and build normally.
+firmware/Boards/*/Drivers/** linguist-vendored
+firmware/Boards/*/Middlewares/** linguist-vendored
+firmware/Boards/*/USB_DEVICE/** linguist-vendored
+
+# CubeMX-generated startup assembly and linker scripts are not hand-written code.
+firmware/Boards/**/startup_*.s linguist-generated
+firmware/Boards/**/*.ld linguist-generated
