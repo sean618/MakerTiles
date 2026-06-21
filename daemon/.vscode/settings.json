@@ -1,0 +1,23 @@
+{
+    "flake8.args": ["--ignore=E501, W505, F401"],
+    "files.associations": {
+        "masternodesystem.h": "c"
+    },
+
+    "psi-header.variables": [
+        ["projectCreationYear", "2024"]
+    ],
+    "psi-header.templates": [
+        {
+            "language": "*",
+            "template": [
+                "Copyright © <<projectCreationYear>> - <<year>> Sean Bremner. All rights reserved.>>"
+            ]
+        }
+    ],
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

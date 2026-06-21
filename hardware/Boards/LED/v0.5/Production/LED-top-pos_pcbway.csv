@@ -1,0 +1,18 @@
+Designator,Footprint,Mid X,Mid Y,TB,Rotation
+C9,C_0402_1005Metric,673.227mil,-884.25mil,T,0
+J7,FFC_connector_16p_hinge_lock,811.022mil,-492.125mil,T,0
+C4,C_1210_3225Metric,166.141mil,-122.047mil,T,0
+R5,R_0402_1005Metric,590.156mil,-379.921mil,T,180
+R7,R_0402_1005Metric,635.825mil,-378.739mil,T,0
+C8,C_0402_1005Metric,870.077mil,-850.392mil,T,0
+U2,SOT-23-5,771.652mil,-866.14mil,T,90
+Q3,SOT-23,482.282mil,-410.629mil,T,0
+R2,R_0402_1005Metric,307.48mil,-698.817mil,T,-90
+U3,TSSOP-20_4.4x6.5mm_P0.65mm,502.361mil,-693.699mil,T,180
+R3,R_0402_1005Metric,366.928mil,-528.345mil,T,-90
+C2,C_0402_1005Metric,687.794mil,-739.369mil,T,180
+R4,R_0402_1005Metric,307.086mil,-577.164mil,T,-90
+J5,FFC_connector_16p_hinge_lock,175.196mil,-492.912mil,T,180
+R1,R_0402_1005Metric,685.825mil,-563.778mil,T,180
+J2,TerminalBlock_03_P3.81mm_Horizontal,496.456mil,-152.362mil,T,0
+C1,C_0402_1005Metric,687.794mil,-660.235mil,T,0

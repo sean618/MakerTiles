@@ -1,0 +1,17 @@
+*.o
+*.d
+*.~lock.*
+fp-info-cache
+*.pyc
+*.su
+*.cyclo
+
+Old/*
+Boards/*/*/*-backups
+SystemTesting/build/*
+Software/__pycache__/*
+FW/Boards/*/Debug/*
+FW/Boards/*/Release/*
+PCB/Boards/*/*/*-backups/*
+PCB/Boards/Old/*
+*/__pycache__/*

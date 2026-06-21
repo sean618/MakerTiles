@@ -1,0 +1,179 @@
+(footprint "Potentiometer"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Potentiometer, vertical, Bourns 3214X, https://www.bourns.com/docs/Product-Datasheets/3214.pdf")
+	(tags "Potentiometer vertical Bourns 3214X")
+	(property "Reference" "REF**"
+		(at -0.1 -4.75 0)
+		(layer "F.SilkS")
+		(uuid "63725baf-8600-4105-8544-241fcb95ce0a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Potentiometer"
+		(at -0.1 4.75 0)
+		(layer "Eco2.User")
+		(uuid "4b588983-95f2-4ea0-8373-dd64632440ed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "78f11ebb-a60b-4437-91ec-f7968fe97e53")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a6f37a78-d38b-4b4e-ac2d-8b3d9e56d11a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25cb4ffa-ab59-4642-be4b-720338d687a9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.7 -2.5)
+		(end -1.7 2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "18f3b01c-bd30-40ae-b004-c96375f701e4")
+	)
+	(fp_line
+		(start -1.7 2.5)
+		(end 1.7 2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2fe91c21-577c-4af3-84f9-47cd9812d3d2")
+	)
+	(fp_line
+		(start 1.7 -2.5)
+		(end -1.7 -2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ef3368cc-0452-413a-9ccf-8f18dfca2b10")
+	)
+	(fp_line
+		(start 1.7 2.5)
+		(end 1.7 -2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "372dcade-912d-469b-a689-4dd783682c30")
+	)
+	(fp_line
+		(start -1.7 -2.5)
+		(end -1.7 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5e635f10-2599-4945-aea9-51b3667abf0d")
+	)
+	(fp_line
+		(start -1.7 2.5)
+		(end 1.7 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "20d2376b-8cee-46d2-948a-acf8fdb92b90")
+	)
+	(fp_line
+		(start 1.7 -2.5)
+		(end -1.7 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "973a2285-a686-4cd1-8f80-926bc846d2fa")
+	)
+	(fp_line
+		(start 1.7 -2.5)
+		(end 1.7 2.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "96475c10-03fb-4b09-9be1-53a7e7376d78")
+	)
+	(pad "1" smd rect
+		(at -1 1.8 180)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "be46df1a-1e71-48f2-a121-e93b00cdd854")
+	)
+	(pad "2" smd rect
+		(at 0 -1.45 180)
+		(size 2 1.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "5377e546-8dc3-40c6-ab42-d4810b210a65")
+	)
+	(pad "3" smd rect
+		(at 1 1.8 180)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "cc862bd3-7930-4890-b211-5aa5eef8852e")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3214X_Vertical.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

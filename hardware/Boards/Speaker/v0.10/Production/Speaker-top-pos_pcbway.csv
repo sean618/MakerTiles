@@ -1,0 +1,5 @@
+Designator,Footprint,Mid X,Mid Y,TB,Rotation
+LS2,Speaker1.8x1.8,1155.509mil,-527.558mil,T,180
+J12,FFC_connector_16p_hinge_lock,202.362mil,-492.125mil,T,180
+J13,FFC_connector_16p_hinge_lock,1949.996mil,-492.125mil,T,0
+J2,Molex_PicoBlade_53261-0271_1x02-1MP_P1.25mm_Horizontal,486.219mil,-158.661mil,T,-90

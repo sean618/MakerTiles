@@ -1,0 +1,108 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "cmake: configure",
+      "type": "shell",
+      "command": "cmake",
+      "args": [
+        "-DCMAKE_BUILD_TYPE=Debug",
+        "-S", "${workspaceFolder}",
+        "-B", "${workspaceFolder}/build"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "cmake: build",
+      "type": "shell",
+      "command": "cmake",
+      "args": [
+        "--build", "${workspaceFolder}/build",
+        "-j"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "dependsOn": ["cmake: configure"],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "cmake: build (no reconfigure)",
+      "type": "shell",
+      "command": "cmake",
+      "args": [
+        "--build", "${workspaceFolder}/build",
+        "-j"
+      ],
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "cmake: build microbus",
+      "type": "shell",
+      "command": "cmake",
+      "args": [
+        "--build", "${workspaceFolder}/build",
+        "--target", "microbus_tests",
+        "-j"
+      ],
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "ctest: run microbus",
+      "type": "shell",
+      "command": "ctest",
+      "args": [
+        "--test-dir", "${workspaceFolder}/build",
+        "-R", "microbus_unit",
+        "--output-on-failure",
+        "-j"
+      ],
+      "dependsOn": ["cmake: build microbus"],
+      "group": "test",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "ctest: run all",
+      "type": "shell",
+      "command": "ctest",
+      "args": [
+        "--test-dir", "${workspaceFolder}/build",
+        "--output-on-failure",
+        "-j"
+      ],
+      "dependsOn": ["cmake: build"],
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    }
+  ]
+}

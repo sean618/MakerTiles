@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"simulator.h": "c",
+			"microbus.h": "c"
+		}
+	}
+}

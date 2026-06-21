@@ -1,0 +1,22 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+C9,4.7uF,C_0402_1005Metric,38.3750,-21.1900,0.0,top
+J7,FFC_connector_16p_hinge_lock,FFC_connector_16p_hinge_lock,49.5000,-12.5000,0.0,top
+R6,75R,R_0402_1005Metric,17.8550,-17.7000,-90.0,top
+IGNORE1,Button Expansion v0.5,BoardText,39.9250,-24.4250,0.0,top
+C8,4.7uF,C_0402_1005Metric,43.3750,-20.3250,0.0,top
+J2,Conn_02x11_Odd_Even,PinHeader_2x11_P2.54mm_Vertical,13.5000,-4.5000,90.0,top
+J4,swd_4pin,swd_header,5.8500,-23.6000,90.0,top
+U2,ME6211C33M5G-N,SOT-23-5,40.8750,-20.7250,90.0,top
+J6,Conn_02x11_Odd_Even,PinHeader_2x11_P2.54mm_Vertical,13.5050,-10.6900,90.0,top
+R7,75R,R_0402_1005Metric,17.8900,-18.9000,-90.0,top
+H2,M2.5MountingHole,MountingHole_2.7mm_M2.5_ISO7380,51.5000,-2.5500,0.0,top
+C4,4.7uF,C_0402_1005Metric,30.7750,-18.9000,180.0,top
+R5,75R,R_0402_1005Metric,31.6900,-16.1750,90.0,top
+U1,STM32G030K6T6,LQFP-32_7x7mm_P0.8mm,24.6750,-18.8750,180.0,top
+H1,M2.5MountingHole,MountingHole_2.7mm_M2.5_ISO7380,2.5000,-22.5000,0.0,top
+R8,75R,R_0402_1005Metric,31.6800,-15.0750,90.0,top
+C3,0.1uF,C_0402_1005Metric,31.9250,-17.9000,0.0,top
+J5,FFC_connector_16p_hinge_lock,FFC_connector_16p_hinge_lock,4.5000,-12.5000,180.0,top
+Ref,Val,Package,PosX,PosY,Rot,Side
+J1,01x06_2.54mm_Male,01x06_2.54mm_Male,2.5000,-12.5000,180.0,bottom
+J3,01x06_2.54mm_Female,01x06_2.54mm_Female,53.1000,-12.5000,0.0,bottom

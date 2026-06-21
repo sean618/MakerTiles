@@ -1,0 +1,15 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"IGNORE5","-","BoardText",39.8500,-19.0000,180.0,bottom
+"IGNORE6","-","BoardText",30.7920,-9.2500,180.0,bottom
+"IGNORE6","-","BoardText",30.7920,-19.0051,180.0,bottom
+"IGNORE3","OFF","BoardText",40.4500,-6.5000,180.0,bottom
+"IGNORE4","+","BoardText",37.8500,-19.0000,180.0,bottom
+"J6","01x06_2.54mm_Female","01x06_2.54mm_Female",47.4000,-12.5000,0.0,bottom
+"IGNORE2","ON","BoardText",46.0421,-6.5000,180.0,bottom
+"IGNORE8","Only connect","BoardText",44.4500,-13.5500,-90.0,bottom
+"IGNORE4","+","BoardText",37.8500,-9.2449,180.0,bottom
+"J7","01x06_2.54mm_Male","01x06_2.54mm_Male",8.1000,-12.5000,180.0,bottom
+"IGNORE9","1 battery!","BoardText",44.4500,-13.3500,90.0,bottom
+"IGNORE7","+","BoardText",32.8421,-9.2500,180.0,bottom
+"IGNORE7","+","BoardText",32.8421,-19.0051,180.0,bottom
+"IGNORE5","-","BoardText",39.8500,-9.2449,180.0,bottom

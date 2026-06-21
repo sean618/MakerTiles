@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+        "name": "Debug MyTest (LLDB)",
+        "type": "lldb",
+        "request": "launch",
+        "program": "${workspaceFolder}/build/MyTest", // Path to the executable
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "preLaunchTask": "cmake build", // Reference the task defined in tasks.json
+        "initCommands": [ 
+            "command source ~/.lldbinit",
+            "settings set target.language c"
+        ]
+        }
+    ]
+}

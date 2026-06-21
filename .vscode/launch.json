@@ -1,0 +1,98 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug: microbus_tests",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/microbus/microbus_tests",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "cmake: build microbus",
+      "initCommands": [
+        "settings set target.language c"
+      ]
+    },
+    {
+      "name": "Debug: fieldprotocol_tests",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/FieldProtocol/fieldprotocol_tests",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "cmake: build",
+      "initCommands": [
+        "settings set target.language c"
+      ]
+    },
+    // {
+    //   "name": "Debug: system_tests",
+    //   "type": "lldb",
+    //   "request": "launch",
+    //   "program": "${workspaceFolder}/build/SystemTesting/system_tests",
+    //   "args": [],
+    //   "cwd": "${workspaceFolder}",
+    //   "preLaunchTask": "cmake: build",
+    //   "initCommands": [
+    //     "settings set target.language c"
+    //   ]
+    // },
+    {
+      "name": "Debug: Python unit tests",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": ["tests/test_field_protocol.py", "-v"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}/Software",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}/Software/src"
+      }
+    },
+    {
+      "name": "Debug: Python integration tests",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": ["tests/test_main.py", "-v", "-s"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}/Software",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}/Software/src",
+        "MASTER_NODE_SYSTEM_LIB": "${workspaceFolder}/build/FieldProtocol/libmasterNodeSystem.dylib"
+      },
+      "preLaunchTask": "cmake: build"
+    },
+    {
+      // Runs the Python integration test *under* lldb so a crash inside the
+      // dlopen'd libmasterNodeSystem.dylib stops with a native C backtrace.
+      // Set `program` to an interpreter that has pyserial (`which python3`);
+      // the Homebrew Cellar python ctest uses does not. Python-level
+      // breakpoints won't bind here - this is for the C-side segfault. For
+      // mixed Py+C, run "Debug: Python integration tests" (debugpy), pause at
+      // a Python breakpoint, then attach with "Attach lldb to Python".
+      "name": "Debug C lib: integration (lldb)",
+      "type": "lldb",
+      "request": "launch",
+      "program": "/opt/homebrew/bin/python3",
+      "args": ["-m", "pytest", "tests/test_main.py", "-s"],
+      "cwd": "${workspaceFolder}/Software",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}/Software/src",
+        "MASTER_NODE_SYSTEM_LIB": "${workspaceFolder}/build/FieldProtocol/libmasterNodeSystem.dylib"
+      },
+      "preLaunchTask": "cmake: build",
+      "initCommands": ["settings set target.language c"]
+    },
+    {
+      // Attach lldb to an already-running Python process (pick the PID). Use
+      // together with the debugpy config for mixed Python + C debugging:
+      // start debugpy, hit a Python breakpoint before the crash, then run this.
+      "name": "Attach lldb to Python",
+      "type": "lldb",
+      "request": "attach",
+      "pid": "${command:pickMyProcess}",
+      "initCommands": ["settings set target.language c"]
+    }
+  ]
+}

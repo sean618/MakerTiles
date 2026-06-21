@@ -1,0 +1,18 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";
+1;"LS2";"Speaker1.8x1.8";1;"SpeakerSmt";
+2;"H3,H4,H2,H1";"MountingHole_2.7mm_M2.5_ISO7380";4;"M2.5MountingHole";
+3;"J12,J13";"FFC_connector_16p_hinge_lock";2;"FFC_connector_16p_hinge_lock";
+4;"IGNORE1";"BoardText";1;"Speaker v0.8";
+5;"J4";"swd_header";1;"swd_4pin";
+6;"J2";"Molex_PicoBlade_53261-0271_1x02-1MP_P1.25mm_Horizontal";1;"2p_picoblade";
+7;"TP1";"TestPoint_2Pads_Pitch2.54mm_Drill0.8mm";1;"TestPoint_2Pole";
+8;"C9,C11,C8,C12";"C_0402_1005Metric";4;"4.7uF";
+9;"C10,C4";"C_0402_1005Metric";2;"220pF";
+10;"R7,R4,R9,R6";"R_0402_1005Metric";4;"75R";
+11;"J1";"01x06_2.54mm_Male";1;"01x06_2.54mm_Male";
+12;"J3";"01x06_2.54mm_Female";1;"01x06_2.54mm_Female";
+13;"U2";"SOT-23-5";1;"ME6211C33M5G-N";
+14;"R2";"R_0402_1005Metric";1;"750K";
+15;"C15";"C_0402_1005Metric";1;"0.1uF";
+16;"U3";"TSSOP-20_4.4x6.5mm_P0.65mm";1;"STM32G030F6P6";
+17;"U1";"WLP-9_1.448x1.468mm_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm";1;"MAX98357AEWL+T";

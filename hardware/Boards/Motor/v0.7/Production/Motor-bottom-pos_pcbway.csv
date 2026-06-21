@@ -1,0 +1,11 @@
+Designator,Footprint,Mid X,Mid Y,TB,Rotation
+J5,01x06_2.54mm_Male,318.897mil,-492.125mil,B,180
+C15,C_0805_2012Metric,1194.88mil,-570.865mil,B,0
+C10,C_0805_2012Metric,796.061mil,-566.141mil,B,0
+C12,C_0805_2012Metric,952.754mil,-566.141mil,B,0
+J7,01x06_2.54mm_Female,1866.138mil,-492.125mil,B,0
+C4,C_0805_2012Metric,716.534mil,-566.141mil,B,0
+C14,C_0805_2012Metric,1116.927mil,-570.865mil,B,0
+C13,C_0805_2012Metric,1039.368mil,-570.865mil,B,0
+C11,C_0805_2012Metric,874.014mil,-566.141mil,B,0
+C16,C_0805_2012Metric,1274.407mil,-571.259mil,B,0

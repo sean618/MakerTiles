@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,LCSC Part Number
+4.7uF,"C9,C8,C4",C_0402_1005Metric,C23733
+FFC_connector_16p_hinge_lock,"J7,J5",FFC_connector_16p_hinge_lock,C262665
+75R,"R6,R7,R5,R8",R_0402_1005Metric,C25133
+Conn_02x11_Odd_Even,"J2,J6",PinHeader_2x11_P2.54mm_Vertical,C2894972
+ME6211C33M5G-N,U2,SOT-23-5,C81233
+STM32G030K6T6,U1,LQFP-32_7x7mm_P0.8mm,C529331
+0.1uF,C3,C_0402_1005Metric,C1525
+01x06_2.54mm_Male,J1,01x06_2.54mm_Male,C5242199
+01x06_2.54mm_Female,J3,01x06_2.54mm_Female,C5142239

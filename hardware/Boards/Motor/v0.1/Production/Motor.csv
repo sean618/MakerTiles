@@ -1,0 +1,18 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";
+1;"C9,C8,C2";"C_0402_1005Metric";3;"4.7uF";
+2;"U1";"HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias";1;"DRV8833PWP";
+3;"J1,J3";"FFC_connector_16p_hinge_lock";2;"FFC_connector_16p_hinge_lock";
+4;"C5";"C_0402_1005Metric";1;"0.1uF_50V";
+5;"J2,J6";"JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal";2;"SM06B-SRSS-TB";
+6;"C3";"C_0805_2012Metric";1;"22uF_25V";
+7;"IGNORE1";"BoardText";1;"Motor v0.1";
+8;"J5,J7";"JST_SH_SM02B-SRSS-TB_1x02-1MP_P1.00mm_Horizontal";2;"SM02B-SRSS-TB";
+9;"J4";"swd_header";1;"swd_4pin";
+10;"U2";"SOT-23-5";1;"ME6211C33M5G-N";
+11;"R2,R3,R4,R1";"R_0402_1005Metric";4;"120R";
+12;"C7";"CP_Elec_6.3x5.3";1;"100uF_16V_SPE";
+13;"H2,H1";"MountingHole_2.7mm_M2.5_ISO7380";2;"M2.5MountingHole";
+14;"U3";"TSSOP-20_4.4x6.5mm_P0.65mm";1;"STM32G030F6P6";
+15;"C1";"C_0402_1005Metric";1;"0.1uF";
+16;"C6";"C_0402_1005Metric";1;"2.2uF";
+17;"R5,R6";"R_1210_3225Metric";2;"0.2R";

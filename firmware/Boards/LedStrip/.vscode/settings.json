@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "compare": "c",
+        "fpnode.h": "c",
+        "stm32g0xx.h": "c",
+        "stm32g0spinode.h": "c",
+        "fpcommon.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "microbus.h": "c",
+        "ios": "c"
+    }
+}

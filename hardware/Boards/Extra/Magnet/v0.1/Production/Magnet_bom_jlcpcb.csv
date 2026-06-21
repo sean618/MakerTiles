@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC Part Number
+4.7uF,"C9,C8,C2",C_0402_1005Metric,C23733
+FFC_connector_16p_hinge_lock,"J1,J3",FFC_connector_16p_hinge_lock,C262665
+ME6211C33M5G-N,U2,SOT-23-5,C81233
+120R,"R2,R3,R4,R1",R_0402_1005Metric,C25079
+LinearHallSensor,U1,SOT-23,C126669
+STM32G030F6P6,U3,TSSOP-20_4.4x6.5mm_P0.65mm,C529330
+0.1uF,C1,C_0402_1005Metric,C1525

@@ -1,0 +1,23 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+C9,4.7uF,C_0402_1005Metric,14.3000,-3.5200,180.0,top
+J1,FFC_connector_16p_hinge_lock,FFC_connector_16p_hinge_lock,4.5000,-12.5000,180.0,top
+D2,1N4148W,D_SOD-123,42.5750,-5.2000,0.0,top
+IGNORE1,Dial v0.5,BoardText,47.7079,-24.2000,0.0,top
+C8,4.7uF,C_0402_1005Metric,9.3000,-4.3850,180.0,top
+J4,swd_4pin,swd_header,5.8500,-23.6000,90.0,top
+U2,ME6211C33M5G-N,SOT-23-5,11.8000,-3.9850,-90.0,top
+R2,75R,R_0402_1005Metric,13.6175,-19.0500,0.0,top
+H2,M2.5MountingHole,MountingHole_2.7mm_M2.5_ISO7380,51.5000,-2.5500,0.0,top
+SW7,RotaryEncoder_Switch,RotaryEncoderEC12D,27.0000,-12.5000,90.0,top
+U3,STM32G030F6P6,TSSOP-20_4.4x6.5mm_P0.65mm,14.0125,-13.6875,-90.0,top
+C2,4.7uF,C_0402_1005Metric,16.2375,-8.8250,-90.0,top
+R4,75R,R_0402_1005Metric,12.5625,-19.0600,0.0,top
+R5,10K,R_0402_1005Metric,34.9300,-11.0400,180.0,top
+R1,75R,R_0402_1005Metric,12.4825,-8.4800,180.0,top
+C1,0.1uF,C_0402_1005Metric,14.2275,-8.8250,90.0,top
+H1,M2.5MountingHole,MountingHole_2.7mm_M2.5_ISO7380,2.5000,-22.5000,0.0,top
+J2,FFC_connector_16p_hinge_lock,FFC_connector_16p_hinge_lock,49.4800,-12.5000,0.0,top
+R3,75R,R_0402_1005Metric,11.4625,-19.0400,0.0,top
+Ref,Val,Package,PosX,PosY,Rot,Side
+J5,01x06_2.54mm_Female,01x06_2.54mm_Female,53.1000,-12.5000,0.0,bottom
+J3,01x06_2.54mm_Male,01x06_2.54mm_Male,2.5000,-12.5000,180.0,bottom

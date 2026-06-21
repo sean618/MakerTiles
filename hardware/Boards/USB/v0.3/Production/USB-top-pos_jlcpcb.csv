@@ -1,0 +1,26 @@
+Designator,Mid X,Mid Y,Layer,Rotation
+C9,19.12mm,12.96mm,Top,270
+C2,8.6mm,25.73mm,Top,0
+J1,4.5mm,22.5mm,Top,90
+J3,20.5mm,22.5mm,Top,270
+R12,7.74mm,27.0mm,Top,180
+C6,17.52mm,11.44mm,Top,225
+U1,13.07mm,20.6mm,Top,0
+R7,7.75mm,24.48mm,Top,180
+C8,24.12mm,13.83mm,Top,270
+J4,6.95mm,11.75mm,Top,0
+U2,21.62mm,13.43mm,Top,0
+R2,9.71mm,27.09mm,Top,0
+C7,17.7mm,14.7mm,Top,135
+IC1,4.27mm,32.03mm,Top,0
+H2,22.5mm,32.45mm,Top,270
+R4,7.22mm,20.12mm,Top,270
+C5,17.3mm,25.15mm,Top,0
+R5,16.32mm,27.03mm,Top,0
+Y2,16.41mm,13.1mm,Top,45
+C4,13.97mm,14.88mm,Top,180
+C1,7.3mm,17.99mm,Top,90
+H1,2.5mm,12.5mm,Top,270
+R6,7.22mm,22.09mm,Top,90
+J2,11.88mm,32.0mm,Top,180
+R1,14.11mm,27.0mm,Top,0

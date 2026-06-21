@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdbool.h": "c",
+        "stm32f1spimaster.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "compare": "c",
+        "cstdlib": "c",
+        "fpcommon.h": "c",
+        "microbus.h": "c",
+        "__node_handle": "c",
+        "stdlib.h": "c",
+        "txmanager.h": "c"
+    }
+}

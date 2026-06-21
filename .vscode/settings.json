@@ -1,0 +1,36 @@
+{
+  "cmake.sourceDirectory": "${workspaceFolder}",
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.configureSettings": {
+    "CMAKE_BUILD_TYPE": "Debug",
+    "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+  },
+
+  "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+  "C_Cpp.default.cStandard": "c11",
+
+  "files.associations": {
+    "*.h": "c",
+    "microbus.h": "c",
+    "microbusmock.hpp": "cpp",
+    "realmicrobus.hpp": "cpp",
+    "fpmaster.h": "c",
+    "masternodesystem.h": "c"
+  },
+
+  "python.testing.pytestArgs": ["tests"],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+
+  "psi-header.variables": [
+    ["projectCreationYear", "2024"]
+  ],
+  "psi-header.templates": [
+    {
+      "language": "*",
+      "template": [
+        "Copyright © <<projectCreationYear>> - <<year>> Sean Bremner. All rights reserved.>>"
+      ]
+    }
+  ]
+}

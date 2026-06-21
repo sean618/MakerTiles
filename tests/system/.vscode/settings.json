@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "test_fieldprotocolfull.h": "c",
+        "microbus.h": "c",
+        "microbusmock.h": "c",
+        "realmicrobus.h": "c",
+        "fpmaster.h": "c"
+    }
+    "psi-header.variables": [
+        ["projectCreationYear", "2024"]
+    ],
+    "psi-header.templates": [
+        {
+            "language": "*",
+            "template": [
+                "Copyright © <<projectCreationYear>> - <<year>> Sean Bremner. All rights reserved.>>"
+            ]
+        }
+    ]
+}

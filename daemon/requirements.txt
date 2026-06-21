@@ -1,0 +1,4 @@
+pyserial>=3.5
+pytest>=8.0
+# Optional: only needed for screen image-drawing helpers (ui_methods.draw_image)
+Pillow>=10.0

@@ -1,0 +1,132 @@
+(footprint "MountingHole_2.7mm_M2.5_ISO7380"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Mounting Hole 2.7mm, no annular, M2.5, ISO7380")
+	(tags "mounting hole 2.7mm no annular m2.5 iso7380")
+	(property "Reference" "BUH1"
+		(at 0 -3.25 0)
+		(layer "Eco2.User")
+		(uuid "95d7e116-ad78-49df-af70-80597178bae9")
+		(effects
+			(font
+				(size 0.3 0.3)
+				(thickness 0.075)
+			)
+		)
+	)
+	(property "Value" "M2.5MountingHole"
+		(at 0 3.25 0)
+		(layer "Eco1.User")
+		(uuid "92270b8a-be40-4da5-b3c4-5516102345af")
+		(effects
+			(font
+				(size 0.3 0.3)
+				(thickness 0.075)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5eb547e-e5d7-4c7b-bf27-63a472420a3a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f431c1b6-2699-47ef-9003-ee6a909b7bf5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_circle
+		(center 0 0)
+		(end 2.25 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "55df28b2-2c2c-4251-aa98-3a7ae3cae1c0")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2.5 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "User.1")
+		(uuid "116382b0-b01a-422c-adfd-2249dc666f6d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.3 0 0)
+		(layer "F.Fab")
+		(uuid "0f8f3b66-b77c-4234-9a45-dc54124c98ea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 2.7 2.7)
+		(drill 2.7)
+		(layers "*.Cu" "*.Mask")
+		(uuid "5f998b3c-151b-45a0-8f81-54050c26646d")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "B.Cu")
+		(uuid "d4291dcc-0b53-4634-8501-1f3f446874bb")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -2.1 -0.8) (xy -1.9 -1.2) (xy -1.7 -1.5) (xy -1.2 -1.9) (xy -0.5 -2.2) (xy 0.5 -2.2) (xy 1.1 -2)
+				(xy 1.6 -1.6) (xy 2 -1.1) (xy 2.2 -0.6) (xy 2.2 0.4) (xy 2 1.1) (xy 1.6 1.6) (xy 1 2.1) (xy 0.4 2.2)
+				(xy -0.6 2.2) (xy -1.4 1.8) (xy -1.9 1.2) (xy -2.2 0.5) (xy -2.2 -0.5)
+			)
+		)
+	)
+	(embedded_fonts no)
+)

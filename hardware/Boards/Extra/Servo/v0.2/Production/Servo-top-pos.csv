@@ -1,0 +1,25 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C9","4.7uF","C_0402_1005Metric",16.7200,-22.7850,0.0,top
+"J9","Conn_01x03_Pin","PinHeader_1x03_P2.54mm_Vertical",33.6000,-7.3500,180.0,top
+"J1","FFC_connector_16p_hinge_lock","FFC_connector_16p_hinge_lock",4.5000,-12.5000,180.0,top
+"J3","FFC_connector_16p_hinge_lock","FFC_connector_16p_hinge_lock",45.5000,-12.5000,0.0,top
+"C3","100uF_16V_SPE","CP_Elec_6.3x5.3",39.4000,-5.4000,-90.0,top
+"J5","Conn_01x03_Pin","PinHeader_1x03_P2.54mm_Vertical",15.0000,-7.3500,180.0,top
+"C4","22uF_25V","C_0805_2012Metric",5.1500,-2.6875,0.0,top
+"IGNORE1","Motor v0.1","BoardText",43.9000,-24.3250,0.0,top
+"C8","4.7uF","C_0402_1005Metric",21.7200,-21.9200,0.0,top
+"J8","Conn_01x03_Pin","PinHeader_1x03_P2.54mm_Vertical",28.9500,-7.3500,180.0,top
+"J4","swd_4pin","swd_header",6.9500,-23.2500,90.0,top
+"U2","ME6211C33M5G-N","SOT-23-5",19.2200,-22.3200,90.0,top
+"R2","120R","R_0402_1005Metric",7.5215,-15.8500,180.0,top
+"J2","Conn_01x03_Pin","PinHeader_1x03_P2.54mm_Vertical",10.3500,-7.3500,180.0,top
+"H2","M2.5MountingHole","MountingHole_2.7mm_M2.5_ISO7380",47.5000,-2.5500,0.0,top
+"U3","STM32G030F6P6","TSSOP-20_4.4x6.5mm_P0.65mm",15.4025,-15.0100,180.0,top
+"R3","120R","R_0402_1005Metric",7.5215,-11.8400,180.0,top
+"C2","4.7uF","C_0402_1005Metric",20.0150,-16.2250,180.0,top
+"R4","120R","R_0402_1005Metric",7.5465,-13.8500,180.0,top
+"R1","120R","R_0402_1005Metric",8.0250,-9.7750,180.0,top
+"C1","0.1uF","C_0402_1005Metric",20.0150,-14.2150,0.0,top
+"H1","M2.5MountingHole","MountingHole_2.7mm_M2.5_ISO7380",2.5000,-22.5000,0.0,top
+"J6","Conn_01x03_Pin","PinHeader_1x03_P2.54mm_Vertical",19.6500,-7.3500,180.0,top
+"J7","Conn_01x03_Pin","PinHeader_1x03_P2.54mm_Vertical",24.3000,-7.3500,180.0,top

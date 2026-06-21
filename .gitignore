@@ -1,0 +1,6 @@
+# Build output
+build/*
+!build/FieldProtocol/
+build/FieldProtocol/*
+!build/FieldProtocol/libmasterNodeSystem.dylib
+build/

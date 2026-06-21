@@ -1,0 +1,7 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","01x06_2.54mm_Male","01x06_2.54mm_Male",8.1000,-12.5000,180.0,bottom
+"IGNORE5","22","BoardText",41.6921,-10.5700,180.0,bottom
+"IGNORE2","1","BoardText",10.9820,-4.1500,180.0,bottom
+"J3","01x06_2.54mm_Female","01x06_2.54mm_Female",47.4000,-12.5000,0.0,bottom
+"IGNORE3","11","BoardText",41.5700,-3.8900,180.0,bottom
+"IGNORE4","12","BoardText",10.6900,-10.0100,180.0,bottom

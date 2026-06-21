@@ -1,0 +1,14 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";
+1;"C9,C8,C2";"C_0402_1005Metric";3;"4.7uF";
+2;"J1,J3";"FFC_connector_16p_hinge_lock";2;"FFC_connector_16p_hinge_lock";
+3;"D3,D1";"D_SOD-323";2;"Diode1A600mV";
+4;"U9";"SOT-353_SC-70-5";1;"74LVC1G06";
+5;"IGNORE1";"BoardText";1;"Dial v0.1";
+6;"J4";"swd_header";1;"swd_4pin";
+7;"U2";"SOT-23-5";1;"ME6211C33M5G-N";
+8;"R2,R4,R1,R3";"R_0402_1005Metric";4;"120R";
+9;"H2,H1";"MountingHole_2.7mm_M2.5_ISO7380";2;"M2.5MountingHole";
+10;"SW7";"RotaryEncoderEC12D";1;"RotaryEncoder_Switch";
+11;"U3";"TSSOP-20_4.4x6.5mm_P0.65mm";1;"STM32G030F6P6";
+12;"R5";"R_0402_1005Metric";1;"100K";
+13;"C1";"C_0402_1005Metric";1;"0.1uF";

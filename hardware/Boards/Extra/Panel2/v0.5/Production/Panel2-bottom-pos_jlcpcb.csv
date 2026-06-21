@@ -1,0 +1,23 @@
+Designator,Mid X,Mid Y,Layer,Rotation
+USBJ1,8.1mm,-12.5mm,Bottom,90
+WIRJ2,52.9mm,-12.5mm,Bottom,270
+DIAJ5,116.4mm,-66.5mm,Bottom,270
+BTSJ2,116.4mm,-39.5mm,Bottom,270
+LIGJ2,18.4mm,-93.5mm,Bottom,270
+USBJ3,18.4mm,-12.5mm,Bottom,270
+BUTJ5,52.9mm,-39.5mm,Bottom,270
+LEDJ1,42.6mm,-66.5mm,Bottom,90
+DISJ2,18.4mm,-39.5mm,Bottom,270
+POWJ3,52.9mm,-93.5mm,Bottom,270
+TMPJ1,8.1mm,-66.5mm,Bottom,90
+BTSJ1,77.1mm,-39.5mm,Bottom,90
+LEDJ3,52.9mm,-66.5mm,Bottom,270
+TMPJ2,18.4mm,-66.5mm,Bottom,270
+LIGJ1,8.1mm,-93.5mm,Bottom,90
+DIAJ3,77.1mm,-66.5mm,Bottom,90
+BUTJ2,42.6mm,-39.5mm,Bottom,90
+JOYJ1,77.1mm,-12.5mm,Bottom,90
+WIRJ1,42.6mm,-12.5mm,Bottom,90
+DISJ1,8.1mm,-39.5mm,Bottom,90
+POWJ1,42.6mm,-93.5mm,Bottom,90
+JOYJ3,116.4mm,-12.5mm,Bottom,270

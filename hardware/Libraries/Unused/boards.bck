@@ -1,0 +1,1760 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0.018Ohm_0805_0.25W
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 0.01uF_10v
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 0.1uF_10v
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 0.1uF_50V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 1.5nF_50v
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 1000uF_16v_SPE
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 100pF_50v
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 100uF_25V_SPE
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 100uF_35v
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 10uF_10v
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 10uF_25V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 10uF_35V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 10uF_50V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 1500uF_16V_SPE
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 158K
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 174K
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 1ADiode_CUS10S30,H3F
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP 1N4148W
+D 100V 0.15A standard switching diode, DO-35
+K diode
+F https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf
+$ENDCMP
+#
+$CMP 1N4149
+D 75V Vrm 0.5A Ifsm standard switching diode, DO-35
+K diode
+F http://www.microsemi.com/document-portal/doc_view/11580-lds-0239
+$ENDCMP
+#
+$CMP 1N4151
+D 75V 0.5A standard switching diode, DO-35
+K diode
+F http://www.microsemi.com/document-portal/doc_view/11580-lds-0239
+$ENDCMP
+#
+$CMP 1N4448
+D 100V 0.15A High-speed standard diode, DO-35
+K diode
+F https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf
+$ENDCMP
+#
+$CMP 1N914
+D 100V 0.3A Small Signal Fast Switching Diode, DO-35
+K diode
+F http://www.vishay.com/docs/85622/1n914.pdf
+$ENDCMP
+#
+$CMP 1p_push_terminal_2059-301_998-403
+D Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP 1uF_10v
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 20020327-D021B01LF
+F ~
+$ENDCMP
+#
+$CMP 20020327-D031B01LF
+D Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)
+K screw terminal
+F ~
+$ENDCMP
+#
+$CMP 20020327-D041B01LF
+K 4 pin screw terminal
+F ~
+$ENDCMP
+#
+$CMP 20K
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 220uF_10v
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 22nF_50v
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 22uF_10V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 22uF_25V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 2ADiode_DFLS230L-7
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP 2p_picoblade
+D Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP 2p_push_terminal_2060-452_998-404
+D Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP 30.1K
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 330uF_35v
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 4.5mm_push_switch
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+$CMP 4.7K
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 4.7uF_10v
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 470pF_50V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 470uF_10v_SPE
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 470uF_35v
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 47uF_16V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 47uF_35v
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 47uF_50V
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 4pin_2.54mm
+D Headers & Wire Housings 5 SIL HORIZONTAL SMT HEADER GOLD
+$ENDCMP
+#
+$CMP 56pF_50v
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 5pin_2.54mm
+D Headers & Wire Housings 5 SIL HORIZONTAL SMT HEADER GOLD
+$ENDCMP
+#
+$CMP 680uF_25_SPE
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 6x3_right_angle_pin_header
+D CONN HEADER 18 POS .100"
+F https://componentsearchengine.com/Datasheets/1/TSW-106-08-T-T-RA.pdf
+$ENDCMP
+#
+$CMP 74AHC04
+D Hex Inverter
+K AHCMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT04.pdf
+$ENDCMP
+#
+$CMP 74AHC04_copy
+D Hex Inverter
+K AHCMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT04.pdf
+$ENDCMP
+#
+$CMP 74AHCT04
+D Hex Inverter
+K AHCTMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT04.pdf
+$ENDCMP
+#
+$CMP 74AHCT04_copy
+D Hex Inverter
+K AHCTMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT04.pdf
+$ENDCMP
+#
+$CMP 74AUC1G07
+D Single Buffer Gate w/ Open Drain, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS Open Drain
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC1G07_copy
+D Single Buffer Gate w/ Open Drain, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS Open Drain
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC1G07_copy1
+D Single Buffer Gate w/ Open Drain, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS Open Drain
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC1G07_copy1_copy
+D Single Buffer Gate w/ Open Drain, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS Open Drain
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC1G07_copy2
+D Single Buffer Gate w/ Open Drain, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS Open Drain
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC2G07
+D Dual Buffer w/ Open Drain, Low-Voltage CMOS
+K Dual Gate Buffer Open Drain LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUP1G07
+D Single Buffer Gate w/ Open Drain, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS Open Drain
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUP1G07_copy
+D Single Buffer Gate w/ Open Drain, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS Open Drain
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUP1G07_copy1
+D Single Buffer Gate w/ Open Drain, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS Open Drain
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUP1G07_copy1_copy
+D Single Buffer Gate w/ Open Drain, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS Open Drain
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUP1G07_copy2
+D Single Buffer Gate w/ Open Drain, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS Open Drain
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74HC04
+D Hex Inverter
+K HCMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf
+$ENDCMP
+#
+$CMP 74HC04_copy
+D Hex Inverter
+K HCMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf
+$ENDCMP
+#
+$CMP 74HCT04
+D Hex Inverter
+K HCTMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf
+$ENDCMP
+#
+$CMP 74HCT04_copy
+D Hex Inverter
+K HCTMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf
+$ENDCMP
+#
+$CMP 74LVC1G07-Q100
+D Single Buffer Gate w/ Open Drain, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS Open Drain
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC1G07GW
+D Single Buffer Gate w/ Open Drain, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS Open Drain
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC2G07
+D Dual Buffer w/ Open Drain, Low-Voltage CMOS
+K Dual Gate Buffer Open Drain LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 93.1K
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP ANT5320LL14R1516A
+D Ceramic chip antenna with pin for PCB trace
+K antenna
+F ~
+$ENDCMP
+#
+$CMP AO3401A
+D -4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf
+$ENDCMP
+#
+$CMP BA243
+D 20V 0.1A silicon planar diode for VHF tuner band selection, DO-35
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/BA243_TFK.pdf
+$ENDCMP
+#
+$CMP BA244
+D 20V 0.1A silicon planar diode for VHF tuner band selection, DO-35
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/BA243_TFK.pdf
+$ENDCMP
+#
+$CMP BA282
+D 35V 0.1A Band Switching Diode, DO-35
+K diode
+F http://docs-europe.electrocomponents.com/webdocs/1304/0900766b813040d6.pdf
+$ENDCMP
+#
+$CMP BA283
+D 35V 0.1A Band Switching Diode, DO-35
+K diode
+F http://docs-europe.electrocomponents.com/webdocs/1304/0900766b813040d6.pdf
+$ENDCMP
+#
+$CMP BAV17
+D 20V 0.25A Small Signal Switching Diode, High Voltage, DO-35
+K diode
+F http://www.vishay.com/docs/85543/bav17.pdf
+$ENDCMP
+#
+$CMP BAV18
+D 50V 0.25A Small Signal Switching Diode, High Voltage, DO-35
+K diode
+F http://www.vishay.com/docs/85543/bav17.pdf
+$ENDCMP
+#
+$CMP BAV19
+D 100V 0.25A Small Signal Switching Diode, High Voltage, DO-35
+K diode
+F http://www.vishay.com/docs/85543/bav17.pdf
+$ENDCMP
+#
+$CMP BAV20
+D 150V 0.25A Small Signal Switching Diode, High Voltage, DO-35
+K diode
+F http://www.vishay.com/docs/85543/bav17.pdf
+$ENDCMP
+#
+$CMP BAV21
+D 200V 0.25A Small Signal Switching Diode, High Voltage, DO-35
+K diode
+F http://www.vishay.com/docs/85543/bav17.pdf
+$ENDCMP
+#
+$CMP BAW75
+D 25V 0.45A Small Signal Switching Diode, DO-35
+K diode
+F http://www.vishay.com/docs/85550/baw75.pdf
+$ENDCMP
+#
+$CMP BAW76
+D 50V 0.3A Small Signal Fast Switching Diode, DO-35
+K diode
+F http://www.vishay.com/docs/85551/baw76.pdf
+$ENDCMP
+#
+$CMP BAY93
+D 20V 0.115A Very Fast Switching Diode, DO-35
+K diode
+F https://cdn-reichelt.de/documents/datenblatt/A400/BAY93_TFK.pdf
+$ENDCMP
+#
+$CMP BGA2800
+D MMIC wideband amplifier, DC-2.2GHz, +20.2dB @ 2150MHz, 3.3V, SOT-363
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGA2800.pdf
+$ENDCMP
+#
+$CMP BGA2801
+D MMIC wideband amplifier, DC-2.2GHz, +23dB @ 2120MHz, 3.3V, SOT-363
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGA2801.pdf
+$ENDCMP
+#
+$CMP BGA2803
+D MMIC wideband amplifier, DC-2.2GHz, +23.6dB @ 950MHz, 3V, SOT-363
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGA2803.pdf
+$ENDCMP
+#
+$CMP BGA2815
+D MMIC wideband amplifier, DC-2.2GHz, +24.7dB @ 2150MHz, 3.3V, SOT-363
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGA2815.pdf
+$ENDCMP
+#
+$CMP BGA2817
+D MMIC wideband amplifier, DC-2.2GHz, +24.4dB @ 2150MHz, 3.3V, SOT-363
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGA2817.pdf
+$ENDCMP
+#
+$CMP BGA2818
+D MMIC wideband amplifier, DC-2.2GHz, +30dB @ 2150MHz, 3.3V, SOT-363
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGA2818.pdf
+$ENDCMP
+#
+$CMP BGA2850
+D MIC wideband amplifier, DC-2.2GHz, +24dB @ 950MHz, 5V, SOT-363-6
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGA2850.pdf
+$ENDCMP
+#
+$CMP BGA2851
+D MMIC wideband amplifier, DC-2.2GHz, +24.8dB @ 950MHz, 5V, SOT-363-6
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGA2851.pdf
+$ENDCMP
+#
+$CMP BGA2865
+D MMIC wideband amplifier, DC-2.2GHz, +32.2dB @ 950MHz, 5V, SOT-363
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGA2865.pdf
+$ENDCMP
+#
+$CMP BGA2867
+D MMIC wideband amplifier, DC-2.2GHz, +26.4dB @ 2150MHz, 5V, SOT-363
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGA2867.pdf
+$ENDCMP
+#
+$CMP BGA2869
+D MMIC wideband amplifier, DC-2.2GHz, +31.7dB @ 950MHz, 5V, SOT-363
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGA2869.pdf
+$ENDCMP
+#
+$CMP BGA2870
+D MMIC wideband amplifier, DC-2.2GHz, +31.1dB @ 500MHz, 2.5V, SOT-363
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGA2870.pdf
+$ENDCMP
+#
+$CMP BGA2874
+D MMIC wideband amplifier, DC-2.2GHz, +31dB @ 750MHz, 2.5V, SOT-363
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGA2874.pdf
+$ENDCMP
+#
+$CMP BME280
+D It is a digital 4 in 1 sensor with gas, humidity, pressure and temperature measurements, LGA-8
+K BME680 gas pressure humidity temperatiure measurement
+$ENDCMP
+#
+$CMP BNO055
+K IMU
+$ENDCMP
+#
+$CMP BSS83P
+D -0.33A Id, -60V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.farnell.com/datasheets/1835997.pdf
+$ENDCMP
+#
+$CMP BSS84
+D -0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://assets.nexperia.com/documents/data-sheet/BSS84.pdf
+$ENDCMP
+#
+$CMP BUK7M10-40EX
+D 56A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 10mOhm Ron, 19.5nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M10-40E.pdf
+$ENDCMP
+#
+$CMP BUK7M12-40EX
+D 48A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 12mOhm Ron, 15.8nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M12-40E.pdf
+$ENDCMP
+#
+$CMP BUK7M12-60EX
+D 53A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 12mOhm Ron, 24.8nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M12-60E.pdf
+$ENDCMP
+#
+$CMP BUK7M15-60EX
+D 42.9A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 15mOhm Ron, 19.4nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M15-60E.pdf
+$ENDCMP
+#
+$CMP BUK7M17-80EX
+D 43A Id, 80V Vds, N-Channel TrenchMOS MOSFET, 17mOhm Ron, 29.6nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M17-80E.pdf
+$ENDCMP
+#
+$CMP BUK7M19-60EX
+D 35.8A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 19mOhm Ron, 17.3nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M19-60E.pdf
+$ENDCMP
+#
+$CMP BUK7M21-40EX
+D 33A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 21mOhm Ron, 10.7nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M21-40E.pdf
+$ENDCMP
+#
+$CMP BUK7M22-80EX
+D 37A Id, 80V Vds, N-Channel TrenchMOS MOSFET, 22mOhm Ron, 23.9nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M22-80E.pdf
+$ENDCMP
+#
+$CMP BUK7M27-80EX
+D 30A Id, 80V Vds, N-Channel TrenchMOS MOSFET, 27mOhm Ron, 19.5nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M27-80E.pdf
+$ENDCMP
+#
+$CMP BUK7M33-60EX
+D 24A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 33mOhm Ron, 10.9nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M33-60E.pdf
+$ENDCMP
+#
+$CMP BUK7M42-60EX
+D 20A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 42mOhm Ron, 9nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M42-60E.pdf
+$ENDCMP
+#
+$CMP BUK7M45-40EX
+D 19A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 45mOhm Ron, 6.2nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M45-40E.pdf
+$ENDCMP
+#
+$CMP BUK7M67-60EX
+D 14A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 67mOhm Ron, 6.7nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M67-60E.pdf
+$ENDCMP
+#
+$CMP BUK7M6R3-40EX
+D 70A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 6.3mOhm Ron, 28.1nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M6R3-40E.pdf
+$ENDCMP
+#
+$CMP BUK7M8R0-40EX
+D 69A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 8mOhm Ron, 23.8nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M8R0-40E.pdf
+$ENDCMP
+#
+$CMP BUK7M9R9-60EX
+D 60A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 9.9mOhm Ron, 30.1nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7M9R9-60E.pdf
+$ENDCMP
+#
+$CMP BUK9M10-30EX
+D 54A Id, 30V Vds, N-Channel TrenchMOS MOSFET, 7.8mOhm Ron, 12.2nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M10-30E.pdf
+$ENDCMP
+#
+$CMP BUK9M11-40EX
+D 53A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 9mOhm Ron, 13.4nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M11-40E.pdf
+$ENDCMP
+#
+$CMP BUK9M12-60EX
+D 54A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 11mOhm Ron, - Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M12-60E.pdf
+$ENDCMP
+#
+$CMP BUK9M120-100EX
+D 11.5A Id, 100V Vds, N-Channel TrenchMOS MOSFET, 119mOhm Ron, 8.8nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M120-100E.pdf
+$ENDCMP
+#
+$CMP BUK9M14-40EX
+D 44A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 11mOhm Ron, 11.3nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M14-40E.pdf
+$ENDCMP
+#
+$CMP BUK9M15-60EX
+D 47A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 13mOhm Ron, 17nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M15-60E.pdf
+$ENDCMP
+#
+$CMP BUK9M156-100EX
+D 9.3A Id, 100V Vds, N-Channel TrenchMOS MOSFET, 150mOhm Ron, 7.4nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M156-100E.pdf
+$ENDCMP
+#
+$CMP BUK9M17-30EX
+D 37A Id, 30V Vds, N-Channel TrenchMOS MOSFET, 14mOhm Ron, 8nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M17-30E.pdf
+$ENDCMP
+#
+$CMP BUK9M19-60EX
+D 38A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 17mOhm Ron, 13.8nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M19-60E.pdf
+$ENDCMP
+#
+$CMP BUK9M23-80EX
+D 37A Id, 80V Vds, N-Channel TrenchMOS MOSFET, 20mOhm Ron, 20nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf
+$ENDCMP
+#
+$CMP BUK9M24-40EX
+D 30A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 20mOhm Ron, 7.7nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M24-40E.pdf
+$ENDCMP
+#
+$CMP BUK9M24-60EX
+D 32A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 21mOhm Ron, 12.4nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M24-60E.pdf
+$ENDCMP
+#
+$CMP BUK9M28-80EX
+D 33A Id, 80V Vds, N-Channel TrenchMOS MOSFET, 25mOhm Ron, 16.7nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M28-80E.pdf
+$ENDCMP
+#
+$CMP BUK9M34-100EX
+D 29A Id, 100V Vds, N-Channel TrenchMOS MOSFET, 34mOhm Ron, 24.7nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M34-100E.pdf
+$ENDCMP
+#
+$CMP BUK9M35-80EX
+D 26A Id, 80V Vds, N-Channel TrenchMOS MOSFET, 31mOhm Ron, 13.5nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M35-80E.pdf
+$ENDCMP
+#
+$CMP BUK9M42-60EX
+D 22A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 37mOhm Ron, 8.3nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M42-60E.pdf
+$ENDCMP
+#
+$CMP BUK9M43-100EX
+D 25A Id, 100V Vds, N-Channel TrenchMOS MOSFET, 43mOhm Ron, 20.2nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M43-100E.pdf
+$ENDCMP
+#
+$CMP BUK9M52-40EX
+D 17.6A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 40mOhm Ron, 4.5nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M52-40E.pdf
+$ENDCMP
+#
+$CMP BUK9M5R2-30EX
+D 70A Id, 30V Vds, N-Channel TrenchMOS MOSFET, 4.1mOhm Ron, 22.5nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M5R2-30E.pdf
+$ENDCMP
+#
+$CMP BUK9M6R6-30EX
+D 70A Id, 30V Vds, N-Channel TrenchMOS MOSFET, 5.3mOhm Ron, 18nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M6R6-30E.pdf
+$ENDCMP
+#
+$CMP BUK9M7R2-40EX
+D 70A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 5.8mOhm Ron, 19.7nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M7R2-40E.pdf
+$ENDCMP
+#
+$CMP BUK9M85-60EX
+D 12.8A Id, 60V Vds, N-Channel TrenchMOS MOSFET, 73mOhm Ron, 4.4nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M85-60E.pdf
+$ENDCMP
+#
+$CMP BUK9M9R1-40EX
+D 64A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 7.3mOhm Ron, 16.2nC Qqd, -55 to 175 °C, LFPAK33
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK9M9R1-40E.pdf
+$ENDCMP
+#
+$CMP Boost_MIC2250YML-TR
+D Voltage Regulators - Switching Regulators
+$ENDCMP
+#
+$CMP Button_12x12
+F ~
+$ENDCMP
+#
+$CMP Button_ADTSM644KV
+F ~
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CAM-M8C-0
+D RF RCVR GNSS/GPS 1.575GHZ MODULE
+K 672-1014-1-ND CAM-M8
+$ENDCMP
+#
+$CMP CR2032_battery_holder
+D Single-cell battery
+K battery cell
+F ~
+$ENDCMP
+#
+$CMP ConnCap-12061C104KAT2A
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Conn_01x08
+D Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x08_2.54_Vertical
+D Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x08_Female
+D Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x08_Male
+D Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Crystal_16M
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP Crystal_16M_small
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP Crystal_24M
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP Crystal_32.768K
+D Two pin crystal
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP Crystal_XRCGB32M000F0L00R0
+D Two pin crystal
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP Current_sense_amp
+K current sense shunt monitor
+$ENDCMP
+#
+$CMP DC-005-5A-2.0
+D CONN PWR JACK 2X5.5MM SOLDER
+K CP-102A-ND
+$ENDCMP
+#
+$CMP DCJack_DC-005-5A-2.0-SMT
+D CONN PWR JACK 2X5.5MM SOLDER
+K CP-102A-ND
+$ENDCMP
+#
+$CMP DCJack_PJ-102A
+D CONN PWR JACK 2X5.5MM SOLDER
+K CP-102A-ND
+$ENDCMP
+#
+$CMP DIODE_5A_LV10S45E
+D 60V 3A Schottky Barrier Rectifier Diode
+K diode Schottky
+$ENDCMP
+#
+$CMP DIODE_B360A-13-F
+D 60V 3A Schottky Barrier Rectifier Diode
+K diode Schottky
+$ENDCMP
+#
+$CMP DMG2301L
+D -3A Id, -20V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F https://www.diodes.com/assets/Datasheets/DMG2301L.pdf
+$ENDCMP
+#
+$CMP DRV8876PWPR
+D 37-V, 3.5-A brushed DC motor driver with integrated current sensing and current sense output
+F http://www.ti.com/lit/ds/symlink/drv8876.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F2A-A-QFN20
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 2K flash, 256B RAM, -40 to +125 C (automotive), QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20 automotive
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F2A-A-QFN20_copy
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 2K flash, 256B RAM, -40 to +125 C (automotive), QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20 automotive
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F2G-A-QFN20
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 2K flash, 256B RAM, -40 to +85 C, QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F2G-A-QFN20_copy
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 2K flash, 256B RAM, -40 to +85 C, QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F2I-A-QFN20
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 2K flash, 256B RAM, -40 to +125 C, QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F2I-A-QFN20_copy
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 2K flash, 256B RAM, -40 to +125 C, QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F4A-A-QFN20
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 4K flash, 512B RAM, -40 to +125 C (automotive), QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20 automotive
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F4A-A-QFN20_copy
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 4K flash, 512B RAM, -40 to +125 C (automotive), QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20 automotive
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F4G-A-QFN20
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 4K flash, 512B RAM, -40 to +85 C, QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F4G-A-QFN20_copy
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 4K flash, 512B RAM, -40 to +85 C, QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F4I-A-QFN20
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 4K flash, 512B RAM, -40 to +125 C, QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F4I-A-QFN20_copy
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 4K flash, 512B RAM, -40 to +125 C, QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F8A-A-QFN20
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 8K flash, 512B RAM, -40 to +125 C (automotive), QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20 automotive
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F8A-A-QFN20_copy
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 8K flash, 512B RAM, -40 to +125 C (automotive), QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20 automotive
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F8G-A-QFN20
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 8K flash, 512B RAM, -40 to +85 C, QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F8I-A-QFN20
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 8K flash, 512B RAM, -40 to +125 C, QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F8I-A-QFN20_copy
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 8K flash, 512B RAM, -40 to +125 C, QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP EFM8UB30F40G-A-QFN20
+D 8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 8K flash, 512B RAM, -40 to +85 C, QFN20
+K 8051 microcontroller PWM UART SPI I2C ADC QFN20
+F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
+$ENDCMP
+#
+$CMP ESP32-WROVER-B
+D WiFi Modules (802.11) SMD Module, ESP32-D0WD, 64Mbits PSRAM, 32Mbits SPI flash, PCB Antenna
+$ENDCMP
+#
+$CMP F6QA1G581M2QZ
+K SAW filter
+$ENDCMP
+#
+$CMP FPC_10051922-1610ELF
+K connector
+F ~
+$ENDCMP
+#
+$CMP FemaleConn_1x6
+K connector
+$ENDCMP
+#
+$CMP Ferrite_Bead
+D Ferrite bead
+K L ferrite bead inductor filter
+F ~
+$ENDCMP
+#
+$CMP GMA4030H11-F26
+D Mems microphone PDM
+K mems microphone
+$ENDCMP
+#
+$CMP GPS_TESEO-LIV3R
+D RF Receiver Teseo ROM GNSS module
+$ENDCMP
+#
+$CMP HDC2080
+D Low Power Humidity and Temperature Sensor
+K Temerature Humidity Sensor
+F http://www.ti.com/lit/ds/symlink/hdc2080.pdf
+$ENDCMP
+#
+$CMP HVRelay_G5Q-14-DC12
+D Omron G5G relay, Miniature Single Pole, SPDT, 10A
+K Miniature Single Pole Relay
+F https://www.omron.com/ecb/products/pdf/en-g5q.pdf
+$ENDCMP
+#
+$CMP HVRelay_G6DN-1A
+D Omron G5Q relay, Miniature Single Pole, SPST-NO, 10A
+K Miniature Single Pole Relay
+$ENDCMP
+#
+$CMP HVRelay_PB114012
+D Relay pcb SPDT 1C/O 12Vdc 10A PB
+$ENDCMP
+#
+$CMP IM69D130
+D High performance digital XENSIV MEMS microphone, -36 dBFS Sensitivity, LLGA-5
+K mems microphone
+F https://www.infineon.com/dgdl/Infineon-IM69D130-DS-v01_00-EN.pdf?fileId=5546d462602a9dc801607a0e46511a2e
+$ENDCMP
+#
+$CMP IM69D130_copy
+D High performance digital XENSIV MEMS microphone, -36 dBFS Sensitivity, LLGA-5
+K mems microphone
+F https://www.infineon.com/dgdl/Infineon-IM69D130-DS-v01_00-EN.pdf?fileId=5546d462602a9dc801607a0e46511a2e
+$ENDCMP
+#
+$CMP IN-S63AT5G
+D Standard LEDs - SMD True Green LED
+$ENDCMP
+#
+$CMP INA197_copy
+D Current Shunt Monitor −16V to +80V Common-Mode Range, 50V/V, SOT-23-5
+K current sense shunt monitor
+F http://www.ti.com/lit/ds/symlink/ina193.pdf
+$ENDCMP
+#
+$CMP INA198_copy
+D Current Shunt Monitor −16V to +80V Common-Mode Range, 100V/V, SOT-23-5
+K current sense shunt monitor
+F http://www.ti.com/lit/ds/symlink/ina193.pdf
+$ENDCMP
+#
+$CMP IRLML6402
+D -3.7A Id, -20V Vds, P-Channel MOSFET, 65mOhm Rds, SOT-23
+K P-Channel MOSFET
+F https://www.infineon.com/dgdl/irlml6402pbf.pdf?fileId=5546d462533600a401535668d5c2263c
+$ENDCMP
+#
+$CMP Inductor_SRN5040TA-6R8M
+D Bourns SRN5040TA Series Type SMD Shielded Wire-wound SMD Inductor with a Ferrite Core, 6.8 uH +/-20% Semi-Shielded
+$ENDCMP
+#
+$CMP Inverter
+D Hex Inverter
+K TTL not inv
+F http://www.ti.com/lit/gpn/sn74LS04
+$ENDCMP
+#
+$CMP Inverter5V
+D Hex Inverter
+K TTL not inv
+F http://www.ti.com/lit/gpn/sn74LS04
+$ENDCMP
+#
+$CMP JST_SM_3p_3.5mm
+K screw terminal
+F ~
+$ENDCMP
+#
+$CMP LED_SML-D12D1WT86
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP LIS3DHTR
+D ACCEL 2-16G I2C/SPI 16LGA
+K 497-10613-1-ND
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/3c/ae/50/85/d6/b1/46/fe/CD00274221.pdf/files/CD00274221.pdf/jcr:content/translations/en.CD00274221.pdf
+$ENDCMP
+#
+$CMP LTR-553ALS-01
+D Light to Digital Converters Ambient Light Photo Sensor
+F https://componentsearchengine.com/Datasheets/1/LTR-553ALS-01.pdf
+$ENDCMP
+#
+$CMP LightSensor_APDS-9960
+D BROADCOM LIMITED - APDS-9960 - SENSOR, PROXIMITY/GESTURE, 2.4V TO 3.6V
+$ENDCMP
+#
+$CMP M2.5MountingHole
+D Mounting Hole without connection
+K mounting hole
+F ~
+$ENDCMP
+#
+$CMP M2MountingHole
+D Mounting Hole without connection
+K mounting hole
+F ~
+$ENDCMP
+#
+$CMP MAX31856
+D Precision Thermocouple to Digital Converter with Linearization, TSSOP-14
+K Thermocouple converter serial
+F https://datasheets.maximintegrated.com/en/ds/MAX31856.pdf
+$ENDCMP
+#
+$CMP MAX98357AETE+T
+F TQFN-16 Maxim
+$ENDCMP
+#
+$CMP MCP2515-xST
+D Stand-Alone CAN Controller with SPI Interface, TSSOP-20
+K CAN Controller SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
+$ENDCMP
+#
+$CMP MCP73831-2-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73831-3-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.35V, Tri-State Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73831-4-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.40V, Tri-State Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73831-5-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.50V, Tri-State Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73831T-2ACI_MC
+D MICROCHIP - MCP73831T-2ACI/MC - BATTERY CHARGER, LI-ION/POL, 0.5A, DFN-8
+$ENDCMP
+#
+$CMP MCP73832-2-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Open-Drain Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73832-3-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.35V, Open-Drain Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73832-4-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.40V, Open-Drain Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MCP73832-5-OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.50V, Open-Drain Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MSM261D4030H1CPM
+D Mems microphone PDM
+K mems microphone
+$ENDCMP
+#
+$CMP MaleConn_1x6
+K connector
+$ENDCMP
+#
+$CMP MountCap
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP NMOS_5A
+F ~
+$ENDCMP
+#
+$CMP NRF24L01
+D Ultra low power 2.4GHz RF Transceiver, QFN-20
+K Low Power RF Transciever
+F http://www.nordicsemi.com/eng/content/download/2730/34105/file/nRF24L01_Product_Specification_v2_0.pdf
+$ENDCMP
+#
+$CMP NSR05F20NXT5G
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP NTR2101P
+D -3.7A Id, -8V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.onsemi.com/pub/Collateral/NTR2101P-D.PDF
+$ENDCMP
+#
+$CMP N_MOSFET
+D N-MOSFET transistor, drain/gate/source
+K transistor NMOS N-MOS N-MOSFET
+F ~
+$ENDCMP
+#
+$CMP OpAmp
+D Single Rail-to-Rail High Output Current Operational Amplifiers, SOT-23-5
+K single opamp
+$ENDCMP
+#
+$CMP PAM8302AAD
+D 2.5W Filterless Class-D Mono Audio Amplifier, SOIC-8
+K audio amplifier class d
+F https://www.diodes.com/assets/Datasheets/PAM8302A.pdf
+$ENDCMP
+#
+$CMP PAM8302AAS
+D 2.5W Filterless Class-D Mono Audio Amplifier, MSOP-8
+K audio amplifier class d
+F https://www.diodes.com/assets/Datasheets/PAM8302A.pdf
+$ENDCMP
+#
+$CMP PMOS_2A
+K P-Channel MOSFET
+$ENDCMP
+#
+$CMP PMS5003_conn_53261-0871
+D Molex PICOBLADE Series, Series Number 53261, 1.25mm Pitch, 8 Way 1 Row Shrouded Right Angle PCB Header, Surface Mount
+F https://componentsearchengine.com/Datasheets/1/53261-0871.pdf
+$ENDCMP
+#
+$CMP PMS7003CONN_20021321-00010C4LF
+D Headers & Wire Housings 1.27x1.27mm BTB, Hdr Recept, SMT, 10 Pos
+$ENDCMP
+#
+$CMP POWER_MOS_AP4034GYT-HF-3
+K Power MOSFET N-MOS
+$ENDCMP
+#
+$CMP PinHeader_01x08
+K connector
+F ~
+$ENDCMP
+#
+$CMP PinHeader_1x12
+D Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP PinSocket_01x08_2.54_Vertical
+D Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP PinSocket_01x08_horizontal_2.54_SMD
+D Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP PinSocket_2x04_P2.54mm_Vertical_SMD
+D Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP PinSocket_2x20_P2.54mm_Vertical_SMD
+K connector
+F ~
+$ENDCMP
+#
+$CMP Polyfuse_2A
+D Resettable fuse, polymeric positive temperature coefficient
+K resettable fuse PTC PPTC polyfuse polyswitch
+F ~
+$ENDCMP
+#
+$CMP Polyfuse_2A_5V
+D Resettable fuse, polymeric positive temperature coefficient
+K resettable fuse PTC PPTC polyfuse polyswitch
+F ~
+$ENDCMP
+#
+$CMP Polyfuse_3A
+D Resettable fuse, polymeric positive temperature coefficient
+K resettable fuse PTC PPTC polyfuse polyswitch
+F ~
+$ENDCMP
+#
+$CMP PushPullBuffer
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP RF-AMP_BGA824N6E6327XTSA1
+K RF GAIN BLOCK
+$ENDCMP
+#
+$CMP RGB_LED
+D RGB LED, 6 pin package
+K LED RGB diode
+F ~
+$ENDCMP
+#
+$CMP RGB_LED_IN-PI554FCH
+D 5050 RGB LED 4-Pin with integrated IC
+K RGB LED NeoPixel addressable
+$ENDCMP
+#
+$CMP RK09K1130A6S
+D Potentiometer
+K resistor variable
+F ~
+$ENDCMP
+#
+$CMP Relay_G5Q-14-DC12
+D Omron G5G relay, Miniature Single Pole, SPDT, 10A
+K Miniature Single Pole Relay
+$ENDCMP
+#
+$CMP SAFFB1G58KA0F0A
+D Murata 1575.42/1602MHz SAW filter, SMD 1109
+K SAW filter
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en
+$ENDCMP
+#
+$CMP SAFFB1G96FN0F0A
+D Murata 1960MHz SAW filter, SMD 1109
+K SAW filter
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en
+$ENDCMP
+#
+$CMP SAFFB2G14FA0F0A
+D Murata 2140MHz SAW filter, SMD 1109
+K SAW filter
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en
+$ENDCMP
+#
+$CMP SAFFB881MFL0F0A
+D Murata 881.5MHz SAW filter, SMD 1109
+K SAW filter
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en
+$ENDCMP
+#
+$CMP SAFFB942MFM0F0A
+D Murata 942.5MHz SAW filter, SMD 1109
+K SAW filter
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en
+$ENDCMP
+#
+$CMP SMW5045S601NTT
+D Coupled inductor with ferrite core
+K inductor choke coil reactor magnetic coupled
+F ~
+$ENDCMP
+#
+$CMP SPDT_switch
+D Switch, single pole double throw
+K switch single-pole double-throw spdt ON-ON
+F ~
+$ENDCMP
+#
+$CMP SPH0645LM4H-B
+D CRAWFORD MIC DGT I2S BOTTOM PORT
+F https://media.digikey.com/pdf/Data%20Sheets/Knowles%20Acoustics%20PDFs/SPH0645LM4H-B.pdf
+$ENDCMP
+#
+$CMP SPZ1TM681E11O00R
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP STDP_switch
+F ~
+$ENDCMP
+#
+$CMP STM32F042F6P6
+D ARM Cortex-M0 MCU, 32KB flash, 6KB RAM, 48MHz, 2-3.6V, 16 GPIO, TSSOP-20
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
+$ENDCMP
+#
+$CMP STM32F072C8T6
+D ARM Cortex-M0 MCU, 64KB flash, 16KB RAM, 48MHz, 2-3.6V, 37 GPIO, LQFP-48
+K ARM Cortex-M0 STM32F0 STM32F0x2
+$ENDCMP
+#
+$CMP STM32F072CBTx
+D ARM Cortex-M0 MCU, 128KB flash, 16KB RAM, 48MHz, 2-3.6V, 37 GPIO, LQFP-48
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
+$ENDCMP
+#
+$CMP STM32F722RET6
+D ARM Microcontrollers - MCU High-performance and DSP with FPU, Arm Cortex-M7 MCU with 64 Kbytes of Flash memory, 216 MHz CPU, Art Accelerator, L1 cache, HW crypto,SDRAM
+F https://www.st.com/resource/en/datasheet/stm32f730r8.pdf
+$ENDCMP
+#
+$CMP STM32F730R8T6
+D ARM Microcontrollers - MCU High-performance and DSP with FPU, Arm Cortex-M7 MCU with 64 Kbytes of Flash memory, 216 MHz CPU, Art Accelerator, L1 cache, HW crypto,SDRAM
+F https://www.st.com/resource/en/datasheet/stm32f730r8.pdf
+$ENDCMP
+#
+$CMP STM32H750VBT6
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 82 GPIO, LQFP-100
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$ENDCMP
+#
+$CMP STM32H750VBTx
+D ARM Cortex-M7 MCU, 128KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 82 GPIO, LQFP-100
+K ARM Cortex-M7 STM32H7
+F https://www.st.com/resource/en/datasheet/stm32h750ib.pdf
+$ENDCMP
+#
+$CMP Screw_Terminal_01x07
+F ~
+$ENDCMP
+#
+$CMP Si2319CDS
+D -4.4A Id, -40V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.vishay.com/docs/66709/si2319cd.pdf
+$ENDCMP
+#
+$CMP TB67H450FNG
+D Brushed DC Motor Driver, PWM Control, 45V, 3.6A, Dynamic current limiting, HTSOP-8
+K H-bridge driver motor current limit
+F http://www.ti.com/lit/ds/symlink/drv8870.pdf
+$ENDCMP
+#
+$CMP TPS54302
+D 3A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6
+K switching buck converter power-supply voltage regulator emi spread spectrum
+F http://www.ti.com/lit/ds/symlink/tps54302.pdf
+$ENDCMP
+#
+$CMP TPS54308
+D 3A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, continuous-conduction, SOT-23-6
+K switching buck converter power-supply voltage regulator emi spread spectrum FCCM
+F http://www.ti.com/lit/ds/symlink/tps54308.pdf
+$ENDCMP
+#
+$CMP TXS0102DCUR
+D 2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application
+F https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-TXS0102DCUR_C53434.pdf
+$ENDCMP
+#
+$CMP TerminalBlock_2P_3.5mm
+F ~
+$ENDCMP
+#
+$CMP TerminalBlock_3P_3.5mm
+K screw terminal
+F ~
+$ENDCMP
+#
+$CMP TerminalBlock_4P_3.5mm
+K 4 pin screw terminal
+F ~
+$ENDCMP
+#
+$CMP TerminalBlock_7P_3.5mm
+F ~
+$ENDCMP
+#
+$CMP Terminal_WJ301V-5.0-2P
+D Screw terminal DIP RoHS
+$ENDCMP
+#
+$CMP Terminal_WJ301V-5.0-3P
+D Screw terminal DIP RoHS
+$ENDCMP
+#
+$CMP TestPoint
+D test point
+K test point tp
+F ~
+$ENDCMP
+#
+$CMP Thermistor_NCP15XH103F03RC
+D Temperature dependent resistor, negative temperature coefficient
+K thermistor NTC resistor sensor RTD
+F ~
+$ENDCMP
+#
+$CMP US100Conn_M20-8900505
+D Headers & Wire Housings 5 SIL HORIZONTAL SMT HEADER GOLD
+$ENDCMP
+#
+$CMP VOC_BME680
+K BME680 gas pressure humidity temperatiure measurement
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001.pdf
+$ENDCMP
+#
+$CMP VP0610T
+D -0.18A Id, -60V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.vishay.com/docs/70209/70209.pdf
+$ENDCMP
+#
+$CMP WS2812B
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+$ENDCMP
+#
+$CMP WS2812B-Mini
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+$ENDCMP
+#
+$CMP WS2812B_2020
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+$ENDCMP
+#
+$CMP buffer_3V-5V
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP button_6x6
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+$CMP button_6x6x9
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+$CMP edge_mounted_push_switch
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+$CMP edge_push_switch_tht
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+$CMP green_led
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP holes_3p_3.5mm
+K screw terminal
+F ~
+$ENDCMP
+#
+$CMP nRF24L01P
+D nRF24L01+, Ultra low power 2.4GHz RF Transceiver, QFN20 4x4mm
+K Low Power RF Transciever
+F http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf
+$ENDCMP
+#
+$CMP open_drain_buffer
+D Single Buffer Gate w/ Open Drain, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS Open Drain
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP oval_button
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+$CMP pin_header_03x02
+D Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP pin_header_06x02
+D Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP rbg_button
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+$CMP side_spst_switch
+D Switch, single pole double throw
+K switch single-pole double-throw spdt ON-ON
+F ~
+$ENDCMP
+#
+$CMP slide_spst_switch
+D Switch, single pole double throw
+K switch single-pole double-throw spdt ON-ON
+F ~
+$ENDCMP
+#
+$CMP ublox_SAM-M8Q
+D GPS ublox M8 variant
+K gps module with antenna
+F https://www.u-blox.com/sites/default/files/SAM-M8Q_DataSheet_%28UBX-16012619%29.pdf
+$ENDCMP
+#
+$CMP xl_ws2812b_small
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+$ENDCMP
+#
+#End Doc Library

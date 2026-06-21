@@ -1,0 +1,15 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";
+1;"C9,C8,C2,C3";"C_0402_1005Metric";4;"4.7uF";
+2;"J3,J5";"FFC_connector_16p_hinge_lock";2;"FFC_connector_16p_hinge_lock";
+3;"IGNORE1";"BoardText";1;"LightSound v0.5";
+4;"R5,R6";"R_0402_1005Metric";2;"10K";
+5;"J4";"swd_header";1;"swd_4pin";
+6;"U2";"SOT-23-5";1;"ME6211C33M5G-N";
+7;"R2,R3,R4,R1";"R_0402_1005Metric";4;"75R";
+8;"H2,H1";"MountingHole_2.7mm_M2.5_ISO7380";2;"M2.5MountingHole";
+9;"U3";"TSSOP-20_4.4x6.5mm_P0.65mm";1;"STM32G030F6P6";
+10;"U4";"LGA-4";1;"WMM7027ATSN1-4/TR";
+11;"C1";"C_0402_1005Metric";1;"0.1uF";
+12;"U1";"LTR-381RGB";1;"LTR-381RGB";
+13;"J1";"01x06_2.54mm_Male";1;"01x06_2.54mm_Male";
+14;"J2";"01x06_2.54mm_Female";1;"01x06_2.54mm_Female";

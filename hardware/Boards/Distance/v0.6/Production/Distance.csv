@@ -1,0 +1,16 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";
+1;"C9,C8,C5,C3,C4";"C_0402_1005Metric";5;"4.7uF";
+2;"C6,C7";"C_0402_1005Metric";2;"12pF";
+3;"J3,J5";"FFC_connector_16p_hinge_lock";2;"FFC_connector_16p_hinge_lock";
+4;"R8,R10,R9,R7";"R_0402_1005Metric";4;"75R";
+5;"C11";"C_0402_1005Metric";1;"0.1uF";
+6;"IGNORE1";"BoardText";1;"Distance v0.5";
+7;"R5,R6";"R_0402_1005Metric";2;"10K";
+8;"U3";"LQFP-48_7x7mm_P0.5mm";1;"STM32F103C8T6";
+9;"J4";"swd_header";1;"swd_4pin";
+10;"U2";"SOT-23-5";1;"ME6211C33M5G-N";
+11;"U1";"VL53L3CXV0DH";1;"VL53L3CXV0DH";
+12;"H2,H1";"MountingHole_2.7mm_M2.5_ISO7380";2;"M2.5MountingHole";
+13;"Y1";"Crystal_SMD_2016-4Pin_2.0x1.6mm";1;"Crystal_16M_small";
+14;"J1";"01x06_2.54mm_Male";1;"01x06_2.54mm_Male";
+15;"J2";"01x06_2.54mm_Female";1;"01x06_2.54mm_Female";

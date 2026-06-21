@@ -1,0 +1,279 @@
+(footprint "01x06_2.54mm_Female"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89006xx, 6 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator")
+	(tags "connector Harwin M20-890 horizontal")
+	(property "Reference" "REF**"
+		(at -0.48 -8.82 0)
+		(layer "Eco2.User")
+		(uuid "fd24987e-6d6d-425a-a251-fabe1757e1e1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "01x06_2.54mm_Female"
+		(at -0.48 8.82 0)
+		(layer "Eco1.User")
+		(uuid "6c485727-93db-416b-b7ea-3e8735ad6913")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 5.7 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "46e8cb46-78f2-4e64-a693-0a58cf9a4c97")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 5.7 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0f15bca3-986a-4f28-9fa2-a0fdd0932dea")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 5.7 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6f74d992-d8ab-40db-ae83-4007dc8f89a6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.58 -7.68)
+		(end 12.98 -7.68)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ec28d511-1e0f-4503-b1e2-0e2e49993f3c")
+	)
+	(fp_line
+		(start -1.58 7.68)
+		(end -1.58 -7.68)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b86b85d0-b700-47df-8519-670ce9421c80")
+	)
+	(fp_line
+		(start 12.98 -7.68)
+		(end 12.98 7.68)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "2da69212-52a2-4686-bd60-679610e409de")
+	)
+	(fp_line
+		(start 12.98 7.68)
+		(end -1.58 7.68)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ef5967d6-4740-469b-b905-9222284c65cc")
+	)
+	(fp_line
+		(start -0.725 -6.67)
+		(end -0.725 -6.03)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "714eb55a-a536-40e1-a4c0-38034061a74d")
+	)
+	(fp_line
+		(start -0.725 -4.13)
+		(end -0.725 -3.49)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4be57c61-aafc-4e36-95b9-fde5ce4aafe0")
+	)
+	(fp_line
+		(start -0.725 -1.59)
+		(end -0.725 -0.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "249e6754-176e-4baa-afee-0e2e76ea096d")
+	)
+	(fp_line
+		(start -0.725 0.95)
+		(end -0.725 1.59)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b555f8f3-2162-456b-ad1b-4eadb9e7b707")
+	)
+	(fp_line
+		(start -0.725 3.49)
+		(end -0.725 4.13)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "64421996-d87d-4ef7-ab5f-4a0dcaff3470")
+	)
+	(fp_line
+		(start -0.725 6.03)
+		(end -0.725 6.67)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3b39e4fd-030d-47cc-aacd-9850a61fa9d8")
+	)
+	(fp_line
+		(start 2.43 -7.62)
+		(end 10.93 -7.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fb72906b-f06a-4004-80f0-10deb262d722")
+	)
+	(fp_line
+		(start 2.43 -6.71)
+		(end -0.82 -6.71)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a4d4cc6c-9a8d-4504-bc89-f254a0c4f0e8")
+	)
+	(fp_line
+		(start 2.43 7.62)
+		(end 2.43 -7.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6d265d2a-05f0-4628-a9c9-d01ae59b95d8")
+	)
+	(fp_line
+		(start 10.93 -7.62)
+		(end 10.93 7.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "93c74d66-c247-4548-ba2b-844b03a4e4c0")
+	)
+	(fp_line
+		(start 10.93 7.62)
+		(end 2.43 7.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "136c6ab4-8532-4653-a78c-182d947d9091")
+	)
+	(pad "1" smd rect
+		(at 0.175 -6.35)
+		(size 2 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "4f978556-ee6f-49e1-82a5-5809d9687d99")
+	)
+	(pad "2" smd rect
+		(at 0.175 -3.81)
+		(size 2 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "b37727bd-3fb8-4069-bd45-ae1d7a3dece8")
+	)
+	(pad "3" smd rect
+		(at 0.175 -1.27)
+		(size 2 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f16a2736-dbe1-4b0d-8e75-ba3266783b01")
+	)
+	(pad "4" smd rect
+		(at 0.175 1.27)
+		(size 2 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "57ce1946-6deb-41ff-a00a-8da9c3167fdd")
+	)
+	(pad "5" smd rect
+		(at 0.175 3.81)
+		(size 2 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c5d09242-f818-421d-8dee-232fa3474846")
+	)
+	(pad "6" smd rect
+		(at 0.175 6.35)
+		(size 2 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0dcc692b-80f3-4b74-b7b1-9bf22b741322")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_M20-89006xx_1x06_P2.54mm_Horizontal.wrl"
+		(hide yes)
+		(offset
+			(xyz 5 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x06_P2.54mm_Horizontal.wrl"
+		(offset
+			(xyz 0 -6.3 0)
+		)
+		(scale
+			(xyz 1 1 0.4)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
+)

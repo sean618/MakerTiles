@@ -1,0 +1,73 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/tests/my_script.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "env": { "PYTHONPATH": "${workspaceFolder}/src" }
+        },
+
+        {
+            "name": "Python Debugger (pytest)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "pytest",
+            "args": ["${workspaceFolder}/tests/test_main.py", "-v"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "env": { "PYTHONPATH": "${workspaceFolder}/src" }
+        },
+
+        {
+            "name": "LLDB: Debug",
+            "type": "lldb",
+            "request": "launch",
+            "program": "/opt/homebrew/bin/python3", // Path to Python interpreter
+            "args": [
+                "${workspaceFolder}/tests/test_main.py", // Path to your test file or directory
+                "-v", // Verbose mode
+                "--pdb" // Enable pytest's debugger (pdb)
+            ],
+            "cwd": "${workspaceFolder}", // Set working directory to your project
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}/src" // Ensure your source files are found
+            },
+            "console": "integratedTerminal", // Use the integrated terminal
+            "stopOnEntry": false, // Don’t stop immediately when starting the program
+            "sourceLanguages": ["python"] // Focus LLDB on Python
+        },
+        {
+            "name": "LLDB: Debug Pytest",
+            "type": "lldb",
+            "request": "launch",
+            "program": "/opt/homebrew/bin/python3", // Path to Python interpreter
+            "args": [
+                "-m", "pytest", // Run pytest as a module
+                "${workspaceFolder}/tests/test_main.py", // Path to your test file or directory
+                "-v", // Verbose mode
+                "--pdb" // Enable pytest's debugger (pdb)
+            ],
+            "cwd": "${workspaceFolder}", // Set working directory to your project
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}/src" // Ensure your source files are found
+            },
+            "console": "integratedTerminal", // Use the integrated terminal
+            "stopOnEntry": false, // Don’t stop immediately when starting the program
+            "sourceLanguages": ["python"] // Focus LLDB on Python
+        },
+
+    ],
+    "compounds": [
+        {
+            "name": "Python + LLDB",
+            "configurations": ["Python Debugger", "LLDB: Debug"]
+        }
+    ]
+}

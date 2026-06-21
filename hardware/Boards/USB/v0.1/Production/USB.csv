@@ -1,0 +1,17 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C9,C2,C8,C3,C5,C1";"C_0402_1005Metric";6;"4.7uF";;;
+2;"R3";"R_0402_1005Metric";1;"100R";;;
+3;"J1,J3";"FFC_connector_16p_hinge_lock";2;"FFC_connector_16p_hinge_lock";;;
+4;"R9,R10,R11,R8";"R_0402_1005Metric";4;"10K";;;
+5;"C6,C7";"C_0402_1005Metric";2;"12pF";;;
+6;"IGNORE1";"BoardText";1;"USB v0.1";;;
+7;"U1";"LQFP-48_7x7mm_P0.5mm";1;"STM32F103C8T6";;;
+8;"R7,R4,R5,R6";"R_0402_1005Metric";4;"0R";;;
+9;"J4";"swd_header";1;"swd_4pin";;;
+10;"U2";"SOT-23-5";1;"ME6211C33M5G-N";;;
+11;"R2,R1";"R_0402_1005Metric";2;"5.1K";;;
+12;"IC1";"SOT-23-6";1;"USBLC6-4SC6";;;
+13;"H2,H1";"MountingHole_2.7mm_M2.5_ISO7380";2;"M2.5MountingHole";;;
+14;"C4";"C_0402_1005Metric";1;"0.1uF";;;
+15;"Y1";"Crystal_SMD_3225-4Pin_3.2x2.5mm";1;"Crystal_16M";;;
+16;"J2";"USB_C_Receptacle_16P";1;"USB_C_connector_16P";;;

@@ -1,0 +1,122 @@
+(footprint "NFC_antenna"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "Eco2.User")
+		(uuid "4e153406-bff5-4437-a52c-67327fa0a312")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "NFC_antenna"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "Eco1.User")
+		(uuid "c6d935af-294c-43de-8afe-9b5f55b90991")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d069825-6ab4-4653-8e3d-5b528413760a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fffb4aa3-1160-443f-89a1-d8d65a4dabce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a8ce493-afc2-4879-82af-3314172c874d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -20 -21.5)
+		(end 20 -21.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "d83de4b3-85b0-4b4a-9841-755f6e8e2c9b")
+	)
+	(fp_line
+		(start -20 21.5)
+		(end -20 -21.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "cf22a259-6a13-43f7-b96c-a741def7fb27")
+	)
+	(fp_line
+		(start 20 -21.5)
+		(end 20 21.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "ec2d47ab-0afb-4d84-bc9e-a4585541a03c")
+	)
+	(fp_line
+		(start 20 21.5)
+		(end -20 21.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "6845cb06-688b-4d85-977d-f692cf570ed0")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "Eco1.User")
+		(uuid "7ebea027-a38d-4ccb-b426-8cf040031016")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+)

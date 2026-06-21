@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "project.h": "c",
+        "stm32g030xx.h": "c",
+        "stdlib.h": "c"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "ceedlingExplorer.debugConfiguration": "ceedlingExplorer"
+    "files.associations": {
+        "simulator.h": "c",
+        "microbus.h": "c"
+    }
+    "psi-header.variables": [
+        ["projectCreationYear", "2024"]
+    ],
+    "psi-header.templates": [
+        {
+            "language": "*",
+            "template": [
+                "Copyright © <<projectCreationYear>> - <<year>> Sean Bremner. All rights reserved.>>"
+            ]
+        }
+    ]
+}

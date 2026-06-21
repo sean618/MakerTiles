@@ -1,0 +1,21 @@
+# Test source manifest - the single source of truth for both build paths
+# (CMakeLists.txt and build_and_test.sh). One entry per line:
+#
+#   <filename> <target>
+#
+# where <target> is:
+#   both - compiled into both the test executable and the Python shared library
+#   test - test executable only (standalone drivers; need USE_FP_DAEMON)
+#   lib  - Python shared library only (the ctypes entry points)
+#
+# Paths are relative to the test/ directory. Blank lines and # comments ignored.
+
+testCommon.cpp        both
+masterNodeSystem.cpp  both
+usbMock.cpp           both
+microbusMock.cpp      both
+realMicrobus.cpp      both
+test.cpp              test
+testBasic.cpp         test
+testFullSystem.cpp    test
+pythonApi.cpp         lib

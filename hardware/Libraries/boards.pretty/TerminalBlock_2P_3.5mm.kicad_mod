@@ -1,0 +1,205 @@
+(footprint "TerminalBlock_2P_3.5mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Terminal Block 4Ucon ItemNo. 19963, 2 pins, pitch 3.5mm, size 7.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/19963.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon")
+	(tags "THT Terminal Block 4Ucon ItemNo. 19963 pitch 3.5mm size 7.7x7mm^2 drill 1.2mm pad 2.4mm")
+	(property "Reference" "REF**"
+		(at 0.06096 -1.55448 0)
+		(layer "Eco2.User")
+		(uuid "67db756a-1f63-46cc-9119-8e6f269c0de3")
+		(effects
+			(font
+				(size 0.3 0.3)
+				(thickness 0.075)
+			)
+		)
+	)
+	(property "Value" "TerminalBlock_2P_3.5mm"
+		(at 0.15494 4.66598 0)
+		(layer "Eco1.User")
+		(uuid "bf6776bc-75dd-4105-8860-09db7d432ffe")
+		(effects
+			(font
+				(size 0.3 0.3)
+				(thickness 0.075)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f4a842ed-45d6-4335-929a-4662ee36e7f0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ac3be7f-591d-4a58-82a8-0c9463895fb1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a4e1b7ae-1aad-45ad-b6dc-a1f252301f7e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.80676 -3.51364)
+		(end 2.39324 -3.51364)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "23f3f040-0aa1-4863-8e43-0cb7ff5dd52a")
+	)
+	(fp_line
+		(start -3.80676 3.68636)
+		(end -3.80676 -3.51364)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a213d28c-973d-423d-9acf-75332c34d93a")
+	)
+	(fp_line
+		(start 2.39324 -3.51364)
+		(end 3.89324 -2.01364)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c5858c0e-76b0-4992-a1b0-0c976ce92b0f")
+	)
+	(fp_line
+		(start 3.89324 -2.01364)
+		(end -3.80676 -2.01364)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "502104ac-6208-4bca-8fc7-36435108fbb0")
+	)
+	(fp_line
+		(start 3.89324 -2.01364)
+		(end 3.89324 3.68636)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "29ba5321-eea1-4f62-9159-35aefd192b49")
+	)
+	(fp_line
+		(start 3.89324 3.68636)
+		(end -3.80676 3.68636)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e5b9a5dc-3ce3-41e6-8052-51cf40fac07f")
+	)
+	(fp_line
+		(start -4.30676 -4.01364)
+		(end -4.30676 3.98636)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1e884d5b-b76a-4fd6-8136-802c4077708b")
+	)
+	(fp_line
+		(start -4.30676 3.98636)
+		(end 4.39324 3.98636)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6586fb10-cae8-4033-8b91-1fb3b6e0667c")
+	)
+	(fp_line
+		(start 4.39324 -4.01364)
+		(end -4.30676 -4.01364)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "25aebefe-0bd3-4171-af97-dccbe07c49df")
+	)
+	(fp_line
+		(start 4.39324 3.98636)
+		(end 4.39324 -4.01364)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d12bd2a8-6e30-42e2-aaca-44d61db6cd6f")
+	)
+	(pad "1" thru_hole rect
+		(at 1.79324 0.08636 180)
+		(size 2.4 2.4)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7684b5a7-373d-4726-b0b2-f950ec3ba55e")
+	)
+	(pad "2" thru_hole circle
+		(at -1.70676 0.08636 180)
+		(size 2.4 2.4)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a3243fd8-0244-4011-934d-aa438fc94033")
+	)
+	(model "/home/sean/Projects/PiPieces/Boards/PCB/Libraries/3DModels/Screw Terminal Block 3.5mm 2-way.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 180)
+		)
+	)
+	(model "${KICAD8_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal.wrl"
+		(offset
+			(xyz 2 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
+)

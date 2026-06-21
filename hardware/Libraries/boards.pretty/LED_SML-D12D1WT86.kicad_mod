@@ -1,0 +1,202 @@
+(footprint "LED_SML-D12D1WT86"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+	(tags "diode")
+	(property "Reference" "REF**"
+		(at 0.0254 0.06604 90)
+		(layer "Eco2.User")
+		(uuid "363c27a8-4cbf-4fe5-8446-d3e68ec53a61")
+		(effects
+			(font
+				(size 0.3 0.3)
+				(thickness 0.075)
+			)
+		)
+	)
+	(property "Value" "LED_SML-D12D1WT86"
+		(at -0.0254 2.72288 0)
+		(layer "Eco1.User")
+		(uuid "2283141f-a7a6-46ed-9811-79facc87cef7")
+		(effects
+			(font
+				(size 0.3 0.3)
+				(thickness 0.075)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a3951e09-7abb-416c-b75f-6857d7f33098")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "357543ee-030f-4d5a-9010-b9f48421f98f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "341f4ad3-eeb5-4466-8ca4-a7932bbfe932")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 0.625 0.775)
+		(end 0.975 0.775)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4865d094-9673-41e8-af62-4d864b949424")
+	)
+	(fp_line
+		(start 0.8 0.95)
+		(end 0.8 0.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3e377425-fd6c-4bc2-ad24-2c875b69515a")
+	)
+	(fp_line
+		(start -0.73 -1.48)
+		(end 0.73 -1.48)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d3f6ab84-ca5e-4a20-895e-9d17af95419d")
+	)
+	(fp_line
+		(start -0.73 1.48)
+		(end -0.73 -1.48)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a8df73a0-2c21-46c0-ad5b-3e437ff39334")
+	)
+	(fp_line
+		(start 0.73 -1.48)
+		(end 0.73 1.48)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "101feab6-aa4b-4ee4-96f0-8ac1938f6b8b")
+	)
+	(fp_line
+		(start 0.73 1.48)
+		(end -0.73 1.48)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "de67d81b-8e38-413b-a996-2a5177c6f77d")
+	)
+	(fp_line
+		(start -0.4 -0.8)
+		(end -0.4 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b5726e74-badc-4f46-b899-2085a80c11b9")
+	)
+	(fp_line
+		(start -0.4 0.8)
+		(end 0.4 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "581b0786-3e77-4fad-aa95-07b08c7c2732")
+	)
+	(fp_line
+		(start 0.1 -0.8)
+		(end -0.4 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5eadf4ad-fb31-4b18-bbae-e1b77657cc11")
+	)
+	(fp_line
+		(start 0.4 -0.5)
+		(end 0.1 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a4b1c22d-0f88-4d44-89a3-cac09b899cdf")
+	)
+	(fp_line
+		(start 0.4 0.8)
+		(end 0.4 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "371f607e-d663-4011-b02b-cf424c24da92")
+	)
+	(pad "1" smd roundrect
+		(at 0 -0.7875 270)
+		(size 0.875 0.95)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "f1959037-a173-4991-92a0-724ab4cc699a")
+	)
+	(pad "2" smd roundrect
+		(at 0 0.7875 270)
+		(size 0.875 0.95)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "faa768c5-b777-491a-8f66-377d88d0ebdf")
+	)
+	(model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_0603_1608Metric.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+)

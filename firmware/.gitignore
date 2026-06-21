@@ -1,0 +1,8 @@
+
+*.o
+*.d
+*.su
+*.cyclo
+
+Boards/*/Debug/*
+Boards/*/Release/*

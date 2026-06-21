@@ -1,0 +1,86 @@
+
+
+*************** Node **************
+
+HW:
+    - SWD!!!
+    - Crystal?
+    - SPI slave configured:
+        - Motorola, 16 bits, MSB first
+        - CPOL - low
+        - CPHA - 1 edge
+        - CRC 16 bits Enabled (X0 + X1 + X2, NSS software)
+        - Tx DMA normal - half word
+        - Rx DMA normal - half word
+    - External interrupt (on rising edge) (enable NVIC) - high priority!
+    - A timer set to count every 200us - update interrupt - for FieldProtocol? - low priority
+    - NVIC: EXTI interrupt for protocol must be same level or higher than protocol SPI DMA channel interrupts!!
+        - SPI DMA channels - NVIC:0
+        - EXTI0 - NVIC:0
+
+
+FW:
+    - cd to Board and create symbolic links for:
+        ln -s ../../../../FieldProtocol/src Core/FieldProtocol
+        ln -s ../../../../Microbus/src Core/Microbus
+        ln -s ../../../Libraries/ Core/Libraries
+    - Create a board.c file in src
+    - Create a project.h file in inc
+    - In main.c define:
+        extern void boardInit();
+        extern void boardLoop();
+    - Compiler:
+        - optimise for debug -Og
+
+
+    - nodeInit(tNode * node, 
+                    uint64_t uniqueId,
+                    uint8_t maxTxPacketEntries, 
+                    tPacketEntry txPacketEntries[], 
+                    uint8_t maxRxPackets, 
+                    tPacketEntry rxPackets[],
+                    tPacketEntry * rxPacketQueue[]);
+    - hwNodeInit(tNode * node, SPI_HandleTypeDef *hspi, uint16_t psGpioPin)
+    - Don't need to do anything for interrupts - as it's hardcoded on HAL_GPIO_EXTI_Callback, HAL_SPI_TxRxCpltCallback, HAL_SPI_RxCpltCallback
+    - Timer callback should call fpNodeProcessRxTx
+    - void fpNodeInit(tFpNode * fpNode, tFpInterface * itf, getNodeIdFn getNodeId, tBoardInfo * boardInfo, tFieldEntry * table);
+
+
+
+
+
+
+*************** Master **************
+
+General
+=======
+HW
+    - SWD!!!
+    - Crystal 16MHz - high speed RCC
+    - clock set to 48MHz
+    - SPI master configured:
+        - 12 Mhz
+        - Motorola, 16 bits, MSB first
+        - CPOL - *high*
+        - CRC Enabled (X1 + X3, NSS software)
+        - Tx DMA normal
+        - Rx DMA normal
+        - complete interrupt high priority!
+    - GPIO output for the PS signal
+    - A timer set to count every 1us - update interrupt - for microbusDelay? - med priority
+    - A timer set to count every 200us - update interrupt - for FieldProtocol? - low priority
+    - USB
+
+FW:
+    Create symbolic links for FieldProtocol/src and Microbus/src
+    Create a board.c file in src
+    In main.c define and call boardInit(), boardLoop()
+    In board.c call hwMasterInit
+    - Compiler:
+        - Add flag USE_SPI_MASTER
+        - optimise for debug
+
+    
+Field Protocol
+==============
+

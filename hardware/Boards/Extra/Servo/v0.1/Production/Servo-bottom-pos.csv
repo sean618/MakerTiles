@@ -1,0 +1,10 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"IGNORE4","DATA","BoardText",37.9421,-6.3000,180.0,bottom
+"IGNORE10","Servo6","BoardText",32.3000,-4.6780,-90.0,bottom
+"IGNORE5","Servo1","BoardText",6.8000,-4.7200,90.0,bottom
+"IGNORE8","Servo4","BoardText",22.9000,-4.5200,-90.0,bottom
+"IGNORE6","Servo2","BoardText",13.4000,-4.6200,-90.0,bottom
+"IGNORE7","Servo3","BoardText",18.4000,-4.5700,-90.0,bottom
+"IGNORE9","Servo5","BoardText",27.6500,-4.6280,-90.0,bottom
+"IGNORE3","5V","BoardText",36.2921,-2.1500,180.0,bottom
+"IGNORE2","GND","BoardText",36.0921,-10.5500,180.0,bottom

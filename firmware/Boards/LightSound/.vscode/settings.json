@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "bitset": "c",
+        "unordered_map": "c",
+        "fpcommon.h": "c",
+        "fpnode.h": "c",
+        "variant": "c",
+        "microphone.h": "c",
+        "__locale": "c",
+        "locale": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "vector": "c"
+    }
+}
